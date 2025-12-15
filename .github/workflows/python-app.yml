@@ -23,5 +23,5 @@ jobs:
 
       - name: Run test 
         run: |  
-            cd src
+            cd github-sction-example
             python -m pytest addition.py
